@@ -1,1 +1,1 @@
-![Image of whiteboard example](/img/white_baord.png)
+![Image of whiteboard example](/img/white_board.png)
